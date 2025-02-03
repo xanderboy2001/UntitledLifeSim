@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: UntitledLifeSim.github.io
+#domain: UntitledLifeSim.github.io
 title: Untitled Life Sim Dev Log
 email: alexanderechristian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A basic development log for a currently-untitled life simulator game.
   I'm hoping this blog helps keep me motivated as I use this game to hone
   my computer science and game development skills.
-baseurl: "" #"/UntitledLifeSim/" # the subpath of your site, e.g. /blog
-url: "https://UntitledLifeSim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/UntitledLifeSim/" # the subpath of your site, e.g. /blog
+url: "https://xanderboy2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: xanderboy2001 
 
 # Build settings

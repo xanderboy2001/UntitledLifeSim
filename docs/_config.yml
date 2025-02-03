@@ -33,6 +33,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-titles-from-headings
 minima:
   skin: auto
   author:

@@ -25,17 +25,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   A basic development log for a currently-untitled life simulator game.
   I'm hoping this blog helps keep me motivated as I use this game to hone
   my computer science and game development skills.
-baseurl: "" #"/UntitledLifeSim/" # the subpath of your site, e.g. /blog
+baseurl: "/UntitledLifeSim/" # the subpath of your site, e.g. /blog
 url: "https://xanderboy2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: xanderboy2001 
 
 # Build settings
 #theme: minima
+remote_theme: jekyll/minima
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-remote-theme
-
-remote_theme: pages-themes/hacker@v0.2.0
+minima:
+  skin: auto
 
 # Exclude from processing.
 # The following items will not be processed, by default.

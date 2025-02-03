@@ -22,13 +22,12 @@ domain: xanderboy2001.github.io
 title: Untitled Life Sim Dev Log
 email: alexanderechristian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  A basic development log for a currently-untitled life simulator game.
+  I'm hoping this blog helps keep me motivated as I use this game to hone
+  my computer science and game development skills.
+baseurl: "/UntitledLifeSim/" # the subpath of your site, e.g. /blog
 url: "https://xanderboy2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-  #twitter_username: jekyllrb
-github_username:  jekyll
+github_username: xanderboy2001 
 
 # Build settings
 theme: minima
